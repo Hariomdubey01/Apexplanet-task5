@@ -9,6 +9,7 @@ This capstone project combines all internship tasks into a single professional p
 
 Using the **Superstore Sales Dataset**, I analyzed retail business performance to uncover valuable insights related to sales, profit, customers, products, and regional trends. The project showcases practical skills in data cleaning, SQL analysis, visualization, dashboard development, and business intelligence.
 
+![Dashboard Preview](https://github.com/Hariomdubey01/E-commerce-Sales-Analytics-Dashboard/blob/main/Snapshot-Of-The%20Dashboard.png)
 ---
 
 # 🎯 Internship Objectives
@@ -228,19 +229,13 @@ Data-Analytics-Portfolio/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Hariomdubey01/Data-Analytics-Portfolio.git
+git clone https://github.com/Hariomdubey01/Apexplanet-task5.git
 ```
 
 ### Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
-```
-
-### Open Jupyter Notebook
-
-```bash
-jupyter notebook
 ```
 
 ### Open Power BI Dashboard
